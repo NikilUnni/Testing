@@ -1,0 +1,21 @@
+App Version : 12.0.3
+Browser : Samsung Browser
+Device : Samsung Galaxy M20
+Screen Size : 6.3"
+OS : Android
+
+App Version :40.2.8
+Browser - safari
+Device : iphone 11
+Screen Size : 6.10"
+OS : ios
+
+Browser : Google Chrome Gmail 
+Device : Dell Lattitude 3540
+Screen Size : 15.60 in
+OS : Windows
+
+Browser : Safari 
+Device : Mac Mini
+Screen Size : 19.5 inch (LG 20MK400H)
+OS : Mac OS 10.15.7
